@@ -217,14 +217,14 @@ header nav ul li a:hover {
 	color:#bf2222;
 }
 
-#main #articles_list article .extract {
+#main #articles_list article .extract{
 	text-align:justify;
 	color:#ffffff;
 }
 
 #main #articles_list article .date {
 	font-size:.8rem;
-	color:#777777;
+	color:#ffffff;
 	margin-bottom:10px;
 }
 
